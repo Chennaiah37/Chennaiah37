@@ -1,116 +1,86 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=T%20Pedda%20Chennaiah&fontSize=42&fontColor=ffffff&desc=Data%20Analyst%20%7C%20Data%20Science%20%26%20AI%2FML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+# Thalari Pedda Chennaiah
 
-<a href="https://www.linkedin.com/in/thalari-pedda-chennaiah-48a20a348">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:chennaiahthalari37@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Chennaiah37">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+**Data Analyst · Data Science & AI/ML Engineer**
+
+Final-year B.Tech (Computer Science & Data Science), RVR & JC College of Engineering — CGPA 9.4/10.0
+GATE 2026 Qualified — Data Science & Artificial Intelligence (AIR 9277)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalari-pedda-chennaiah-48a20a348)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chennaiahthalari37@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Chennaiah37)
 
 </div>
 
-<br/>
+---
 
-### About Me
+## Summary
 
-Final-year **B.Tech in Computer Science & Data Science** student at R.V.R. & J.C. College of Engineering, building full-stack applications and AI/ML systems end to end — from data pipelines and model training to React frontends and deployed APIs.
+Final-year Computer Science & Data Science student with hands-on experience building full-stack applications and applied ML systems — from data pipelines and model training to REST APIs and production deployment. Comfortable across the engineering lifecycle: data auditing, model development, backend implementation, testing, and cloud deployment. Currently seeking **Data Analyst** and **Systems Engineer** roles.
 
-- 🎯 Qualified **GATE 2026** in Data Science & Artificial Intelligence
-- 💼 Internship experience via **IBM SkillsBuild** and **Microsoft / AICTE**
-- 🔭 Currently building **CivicPulse Hub**, a full-stack civic complaint management system
-- 🌱 Actively exploring applied ML, system design, and production-grade backend engineering
-- 🎓 Looking for **Data Analyst** / **System Engineer** roles where I can apply both my analytics and engineering skills
-- 📫 Reach me at **chennaiahthalari37@gmail.com**
+---
 
-<br/>
+## Projects
 
-### 🚀 Featured Projects
+### CivicPulse Hub — Civic Complaint Management Platform
+Full-stack platform for citizens to report and track civic issues end-to-end. Built REST APIs in FastAPI for complaint submission, officer assignment, and status tracking, with a four-role access-control system (Citizen, Department Officer, Admin, Super Admin) and complaint auto-routing via a rule-based classifier. Backed by PostgreSQL, containerized with Docker, and covered by a 30-test automated end-to-end suite.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+`FastAPI` `React` `PostgreSQL` `JWT Auth` `Docker` `GitHub Actions`
+[Repository →](https://github.com/Chennaiah37/Civic-Pulse-Hub-Smart-City-Grievance-Feedback-Management-System)
 
-**🏙️ [CivicPulse Hub](https://github.com/Chennaiah37/Civic-Pulse-Hub-Smart-City-Grievance-Feedback-Management-System)**
+### CrediSense — Explainable Credit Default Risk Platform
+Decision-support platform for credit-card default risk prediction. Audited and cleaned a 30,000-row financial dataset, engineered features (payment ratios, utilization, multi-month trends), and compared Logistic Regression, Random Forest, and XGBoost models with SHAP for explainability. FastAPI backend with authentication, database models, and prediction/analytics endpoints.
 
-AI-powered civic grievance & feedback management system with a FastAPI backend, JWT auth, rule-based ML complaint classification, and a React frontend with live analytics dashboards.
+`Python` `FastAPI` `PostgreSQL` `Scikit-learn` `XGBoost` `SHAP` `Docker`
 
-`FastAPI` `React` `PostgreSQL` `JWT` `ML Classification`
+### CropSense — Tomato Leaf Disease Classification
+Two-stage image classification system (leaf validator + disease classifier) built on EfficientNetB0, reaching ~97% validation accuracy across 11 classes. FastAPI backend serving inference, with a React frontend and multilingual text-to-speech (6 Indian languages) for treatment guidance.
 
-</td>
-<td width="50%" valign="top">
+`TensorFlow` `EfficientNetB0` `FastAPI` `React` `PostgreSQL`
 
-**🍅 CropSense**
+### AgriSaathi 2.0 — Agricultural Decision Intelligence Platform
+Cloud-based platform combining crop suitability ML, historical production analytics, and market price trend analysis into a single decision-support dashboard, built on multi-year agricultural and crop-production datasets.
 
-Tomato leaf disease detection system using a MobileNetV2 CNN to classify crop diseases from images, with a React frontend and FastAPI backend for inference.
+`Python` `Pandas` `Scikit-learn` `FastAPI` `PostgreSQL` `AWS`
 
-`TensorFlow` `MobileNetV2` `React` `FastAPI` `PostgreSQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🌾 [Crop Recommendation System](https://github.com/Chennaiah37/Crop-Recommendation-System)**
-
-ML-based system that recommends the most suitable crop for given soil and climate conditions, deployed with Streamlit.
+### Crop Recommendation System
+ML-based system recommending the most suitable crop for given soil and climate conditions, deployed with Streamlit.
 
 `Python` `Scikit-learn` `Streamlit`
+[Repository →](https://github.com/Chennaiah37/Crop-Recommendation-System)
 
-</td>
-<td width="50%" valign="top">
-
-**🍷 [Wine Quality Prediction](https://github.com/Chennaiah37/Wine-Quality-Prediction)**
-
-Comparative study of multiple ML models to predict wine quality from physicochemical properties.
+### Wine Quality Prediction
+Comparative study of multiple ML models predicting wine quality from physicochemical properties.
 
 `Python` `Scikit-learn` `Jupyter Notebook`
+[Repository →](https://github.com/Chennaiah37/Wine-Quality-Prediction)
 
-</td>
-</tr>
-</table>
+---
 
-<br/>
+## Technical Skills
 
-### 🛠️ Tech Stack
+**Languages:** Python, Java, JavaScript
+**Backend & APIs:** FastAPI, Flask, REST APIs
+**Frontend:** React
+**Databases:** PostgreSQL, MongoDB, MySQL
+**ML / Data:** Pandas, NumPy, Scikit-learn, XGBoost, TensorFlow, SHAP
+**Testing & DevOps:** Pytest, Docker, GitHub Actions, CI/CD basics
+**Cloud:** AWS (EC2, S3, IAM foundations)
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Chennaiah37&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chennaiah37&layout=compact&theme=default&hide_border=true" height="165"/>
 
 </div>
 
-<br/>
-
-### 📊 GitHub Stats
+---
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Chennaiah37&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chennaiah37&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chennaiah37&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-<i>Open to Data Analyst and System Engineer roles — let's connect!</i>
+<sub>Open to Data Analyst and Systems Engineer roles.</sub>
 </div>
